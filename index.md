@@ -14,6 +14,8 @@ Or click on the image below…
 
 Section 2: will cover the use of the Houston Homeless Map along with it’s intended use, tutorial and upcoming improvements to the map.
 Section 3: will cover the creation and use of a Google + social media site intened to provide outreach and social engagement.
+![mapimage](/img/hhm_googleplus.png){:class="img-responsive"}
+
 Section 4: Will cover the use of smart devices by homeless individuals in Houston in order to get them off the street.
 Section 5: will cover the creation of a hypothical nonprofit called The Texas Homeless Innovation Center.
 
