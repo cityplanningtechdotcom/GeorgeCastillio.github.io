@@ -52,7 +52,7 @@ The Homeless Innovation Center could be funded by multiple levels of government 
 
 • Implementing dynamic interventions.<br>
 
-CONTACT US<br>
+**CONTACT US**<br>
 Charles Thomas<br>
 cleroythomas@gmail.com<br>
 (404) 926-6235<br>
