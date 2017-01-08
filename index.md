@@ -15,8 +15,9 @@ Or click on the image below…
 ![mapimage](/img/mappiuc.png){:class="img-responsive"}
 
 <a href="http://meta.stackoverflow.com/users/44330/jason-s">
-   <img src="![mapimage](/img/mappiuc.png)">
+   <img src="GeorgeCastillio.github.io/img/mappiuc.png">
 </a>
+
 
 Section 2: will cover the use of the Houston Homeless Map along with it’s intended use, tutorial and upcoming improvements to the map.
 Section 3: will cover the creation and use of a Google + social media site intened to provide outreach and social engagement.
