@@ -54,9 +54,6 @@ cleroythomas@gmail.com<br>
 (404) 926-6235<br>
 [https://www.linkedin.com/in/chuckleroythomasjr](https://www.linkedin.com/in/chuckleroythomasjr)<br>
 
-APPENDIX AND CITATIONS
-PDF of this document
-
 <div id="disqus_thread"></div>
 <script>
 
