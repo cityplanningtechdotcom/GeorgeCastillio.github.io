@@ -8,7 +8,7 @@ comments: true
 
 Welcome to this documentation of the Houston Homeless Map Project.
 
-To go directly to the map click here: 
+To go directly to the map click [Here:](http://arcg.is/2gTY9wt)
 
 **Visit The Houston Homeless Map** 
 Or click on the image below…
