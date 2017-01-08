@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Site still in construction..
+**Site still in construction..**
 
 Welcome to this demo (and documentation) of the Houston Homeless Map Project.
 
