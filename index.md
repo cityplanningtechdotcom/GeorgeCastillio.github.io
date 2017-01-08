@@ -10,9 +10,7 @@ Welcome to this documentation of the Houston Homeless Map Project.
 
 To go directly to the map click here: 
 
-**Visit The Houston Homeless Map**
-
-Or click on the image below…
+**Visit The Houston Homeless Map** Or click on the image below…
 
 <a href="http://arcg.is/2gTY9wt">
    <img src="GeorgeCastillio.github.io/img/mappiuc.png">
