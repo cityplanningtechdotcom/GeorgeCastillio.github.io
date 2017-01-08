@@ -62,6 +62,9 @@ APPENDIX AND CITATIONS
 PDF of this document
 https://www.academia.edu/24127160/The_potential_for_health-related_uses_of_mobile_phones_and_internet_with_homeless_veterans_results_from_a_multisite_survey?auto=download
 
+[Wikipedia](https://en.wikipedia.org/wiki/Sleeping_Beauty), or, more recently, during several different expositions
+
+
 <div id="disqus_thread"></div>
 <script>
 
