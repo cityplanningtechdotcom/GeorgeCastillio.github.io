@@ -1,5 +1,7 @@
 ---
 layout: default
+comments: true
+# other options
 ---
 
 **Site still in construction..**
