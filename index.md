@@ -10,7 +10,7 @@ To go directly to the map click here Visit The Houston Homeless Map
 
 Or click on the image below…
 
-![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+![mapimage](/img/mappiuc.png){:class="img-responsive"}
 
 Section 2: will cover the use of the Houston Homeless Map along with it’s intended use, tutorial and upcoming improvements to the map.
 Section 3: will cover the creation and use of a Google + social media site intened to provide outreach and social engagement.
