@@ -12,9 +12,7 @@ To go directly to the map click here Visit The Houston Homeless Map
 
 Or click on the image below…
 
-![mapimage](/img/mappiuc.png){:class="img-responsive"}
-
-<a href="http://meta.stackoverflow.com/users/44330/jason-s">
+<a href="http://arcg.is/2gTY9wt">
    <img src="GeorgeCastillio.github.io/img/mappiuc.png">
 </a>
 
