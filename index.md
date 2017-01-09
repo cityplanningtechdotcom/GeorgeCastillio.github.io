@@ -15,7 +15,7 @@ Welcome to this documentation of the Houston Homeless Map Project.
    <img src="GeorgeCastillio.github.io/img/mappiuc.png">
 </a>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bcBe7MmqUYg" frameborder="0" allowfullscreen></iframe>
 **Section 2:** will cover the use of the Houston Homeless Map along with it’s intended use, tutorial and upcoming improvements to the map.<br>
 
 **Section 3:** will cover the creation and use of a Google + social media site intened to provide outreach and social engagement.
