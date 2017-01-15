@@ -5,8 +5,6 @@ comments: true
 ---
 **Site still in progress, check back 2/1/17**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PedG39hku6Q" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o7-o3JS9Phw" frameborder="0" allowfullscreen></iframe>
 <a href="https://github.com/you"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a>
 **To visit The Houston Homeless Map** <a href="http://arcg.is/2gTY9wt" target="_blank">Click Here:</a>
 
