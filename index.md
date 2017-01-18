@@ -30,7 +30,7 @@ These components are intended to be modular so they can be quickly put to use as
 
 The following tutorial covers how to use the Houston Homeless Map. It is 30 seconds long **this isn’t the real tutorial, it’s still in construction.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N-5FCICaMyM" frameborder="0" allowfullscreen></iframe>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/N-5FCICaMyM" frameborder="0" allowfullscreen></iframe>
 
 I also want to add a feed to the map based on mobile feedings similar to mobile loaves and fishes as seen here: http://mlf.org/truck-schedules/ 
 
