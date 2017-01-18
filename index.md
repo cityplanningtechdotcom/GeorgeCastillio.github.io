@@ -41,7 +41,7 @@ Go to the Houston Homeless Map Community Google + site
 As part of the project we will look to provide homeless with Smartphone or smartdevices.
 I will add to this section soon. I was working on this before seeing this article but was influenced by this work especially for the idea of the Texas Homeless Innovation Center. https://www.aei.org/publication/a-tech-revolution-for-the-homeless/
 
-<iframe src="https://docs.google.com/presentation/d/1TBwcSn_1zue32y_ROqN7f4WiPqLO3fllqWab68GruuY/embed?start=true&loop=true&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1TBwcSn_1zue32y_ROqN7f4WiPqLO3fllqWab68GruuY/embed?start=true&loop=true&delayms=60000" frameborder="0" width="480" height="270" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 **TEXAS HOMELESS INNOVATION CENTER**<br>
 The Homeless Innovation Center could be funded by multiple levels of government and/or private donors. Its major tasks would include:<br>
