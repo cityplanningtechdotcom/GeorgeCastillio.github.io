@@ -10,14 +10,10 @@ comments: true
 **Or click on the image below…**
 <a href="http://arcg.is/2gTY9wt">
    <img src="GeorgeCastillio.github.io/img/mappiuc.png">
-</a>
+</a><br>
 The componennts mention here are intended to be modular so they can be quickly put to use as they are rolled out but also intended to work together in a system that can be implemented as a package. The Houston Homeless Map is ready to use but will be improved as orgainizations add their information. The following video is offered to explain how they will work together.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VXk051YF2wQ" frameborder="0" allowfullscreen></iframe>
-
-
-![mapimage](/img/hhm_googleplus.png){:class="img-responsive"}
-
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VXk051YF2wQ" frameborder="0" allowfullscreen></iframe><br>
 
 **MAP TUTORIAL**
 
@@ -28,8 +24,9 @@ The following tutorial covers how to use the Houston Homeless Map. It is 30 seco
 I also want to add a feed to the map based on mobile feedings similar to mobile loaves and fishes as seen here: http://mlf.org/truck-schedules/ 
 
 **GOOGLE + SOCIAL MEDIA SITE**
-Go to the Houston Homeless Map Community Google + site 
+Go to the Houston Homeless Map Community Google + site <br>
 
+![mapimage](/img/hhm_googleplus.png){:class="img-responsive"}
 **SMART DEVICES**
 As part of the project we will look to provide homeless with Smartphone or smartdevices.
 I will add to this section soon. I was working on this before seeing this article but was influenced by this work especially for the idea of the Texas Homeless Innovation Center. https://www.aei.org/publication/a-tech-revolution-for-the-homeless/
