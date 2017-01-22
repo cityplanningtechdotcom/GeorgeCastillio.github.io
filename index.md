@@ -43,9 +43,9 @@ cleroythomas@gmail.com<br>
 (404) 926-6235<br>
 [https://www.linkedin.com/in/chuckleroythomasjr](https://www.linkedin.com/in/chuckleroythomasjr)<br>
 
-<a href="http://charlesleroythomasjr.tech" target="_blank">Portfolio: charlesleroythomasjr.tech</a>
-<a href="http://cityplanningtech.com " target="_blank">Portfolio: charlesleroythomasjr.tech</a>
-Blog: cityplanningtech.com (still in construction)
+<a href="http://charlesleroythomasjr.tech" target="_blank">Portfolio: charlesleroythomasjr.tech</a><br>
+<a href="http://cityplanningtech.com " target="_blank">Blog: cityplanningtech.com (still in construction)</a>
+
 
 <div id="disqus_thread"></div>
 <script>
