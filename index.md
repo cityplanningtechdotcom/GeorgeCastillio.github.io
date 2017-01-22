@@ -4,7 +4,6 @@ comments: true
 # other options
 ---
 **Site still in progress, check back 2/1/17**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VXk051YF2wQ" frameborder="0" allowfullscreen></iframe>
 <a href="https://github.com/GeorgeCastillio/GeorgeCastillio.github.io"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a>
 **To visit The Houston Homeless Map** <a href="http://arcg.is/2gTY9wt" target="_blank">Click Here:</a>
 
@@ -12,19 +11,13 @@ comments: true
 <a href="http://arcg.is/2gTY9wt">
    <img src="GeorgeCastillio.github.io/img/mappiuc.png">
 </a>
+The componennts mention here are intended to be modular so they can be quickly put to use as they are rolled out but also intended to work together in a system that can be implemented as a package. The Houston Homeless Map is ready to use but will be improved as orgainizations add their information. The following video is offered to explain how they will work together.
 
-**Section 2:** Will cover the use of the Houston Homeless Map along with it’s intended use, tutorial and upcoming improvements to the map.<br>
-
-**Section 3:** will cover the creation and use of a Google + social media site intened to provide outreach and social engagement.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VXk051YF2wQ" frameborder="0" allowfullscreen></iframe>
 
 
 ![mapimage](/img/hhm_googleplus.png){:class="img-responsive"}
 
-**Section 4:** Will cover the use of smart devices by homeless individuals in Houston in order to get them off the street.
-
-**Section 5:** will cover the creation of a hypothical nonprofit called The Texas Homeless Innovation Center.
-
-These components are intended to be modular so they can be quickly put to use as they are rolled out but also intended to work together in a system that can be implemented as a package. The following infographic is offered to explain how they will work together.
 
 **MAP TUTORIAL**
 
